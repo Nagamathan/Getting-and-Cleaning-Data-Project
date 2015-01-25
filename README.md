@@ -1,6 +1,5 @@
 # Getting-and-Cleaning-Data-Project
-Getting-and-Cleaning-Data-Project
-Generate Dataset
+# Generate Dataset
 
 Checkout the repo, and run the script run_analysis.R.
 
@@ -12,6 +11,7 @@ store it in a zip file called data.zip, After this a new folder will be generate
 
 dataset1.csv - 10299 rows and 81 cols
 dataset2.csv - 180 rows and 81 cols
-Include dataset
+
+# Include dataset
 
 The data is located in the results folder  dataset1 <- read.csv("results/dataset1.csv") dataset2 <- read.csv("results/dataset2.csv")
